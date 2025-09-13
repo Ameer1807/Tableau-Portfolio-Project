@@ -1,6 +1,4 @@
 # Tableau-Portfolio-Project
-Developed a Tableau dashboard for HR to analyze employee data. The project showcases skills in data preparation, calculated fields, and creating a professional, end-to-end business intelligence solution. It provides a summary view and detailed records, demonstrating proficiency in Tableau desktop and dashboard design.
-
 ✅ Problem Statement:
 Developed a Tableau dashboard for a Human Resources department to provide a comprehensive view of employee data. The project aimed to create a solution with both a high-level summary view and a detailed employee record view for in-depth analysis.
 
